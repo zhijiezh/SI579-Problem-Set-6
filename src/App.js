@@ -139,6 +139,7 @@ function App() {
   
   return (
     <div className="App">
+      <div>Repo address: <a href="https://github.com/zhijiezh/SI579-Problem-Set-6">https://github.com/zhijiezh/SI579-Problem-Set-6</a></div>
       <div>
         <h1 className="row">Rhyme Finder (579 Problem Set 6)</h1>
         <div className="row">
